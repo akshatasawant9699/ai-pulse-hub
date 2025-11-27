@@ -1,0 +1,7 @@
+project_id = "dtpkqwvoazvcwnllofrk"
+
+[functions.aggregate-ai-news]
+verify_jwt = false
+
+[functions.deep-research]
+verify_jwt = false
